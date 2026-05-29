@@ -110,7 +110,5 @@ APA is built around a few core rules:
 - Retrieve deeper context only when it is actually needed.
 - Rewrite, merge, supersede, and prune memory over time.
 
-## GitHub Description
 
-A platform-neutral framework for designing and auditing adaptive agents that improve through compressed memory, layer separation, and reflection.
 
